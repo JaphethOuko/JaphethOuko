@@ -1,2 +1,2 @@
 # JaphethOuko
-Aspiring computer science professional passionate about coding, problem-solving, and building innovative projects to make a positive impact through technology.
+An aspiring computer science professional with a passion for coding, problem-solving, and creating innovative projects that have a positive impact through technology.
